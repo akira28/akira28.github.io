@@ -2,29 +2,19 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-
   <!-- Google font typography settings - defined in _config.yml -->
-  {% if site.resume_theme == 'default' %}
-  <link href='https://fonts.googleapis.com/css?family=Lora:400,700|Open+Sans:400,300,800,700' rel='stylesheet' type='text/css'>
-  {% endif %}
-
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
   <meta property="og:image" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}images/avatar.jpg"/>
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"/>
-
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@akira28">
   <meta name="twitter:creator" content="@akira28">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:image" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}images/avatar.jpg">
-
-
-  <link rel="stylesheet" href="css/main.css">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="icon" type="image/x-icon" href="/favicon.png" />
   <script>
@@ -32,9 +22,8 @@
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
     ga('create', 'UA-99898402-1', 'auto');
     ga('send', 'pageview');
-
   </script>
+  <link rel="stylesheet" href="css/main.css" media="bogus">
 </head>
