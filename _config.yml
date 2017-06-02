@@ -1,5 +1,5 @@
 # Site settings
-title: "Andrea De Pirro"
+title: "Andrea De Pirro - PHP Architect"
 description: "A highly skilled and passionate web architect with over 10 years of experience developing and managing web application projects"
 
 # Build settings
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Andrea De Pirro"
-resume_title:                   "Senior PHP Developer"
+resume_title:                   "PHP Architect"
 resume_contact_email:           "andreadepirro@gmail.com"
 resume_header_contact_info:     "Carrer de Pizarro 5, 4-2 | 672438825 | andreadepirro@gmail.com"
 resume_header_intro:            "<p>A highly skilled and passionate web architect with over 10 years of experience developing and managing web application projects.<br />Specialties: PHP, Symfony, Laravel, Magento, Wordpress, AWS, REST</p>"
