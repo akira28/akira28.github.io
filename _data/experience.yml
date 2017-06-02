@@ -39,7 +39,7 @@ Create documentation standards for key platforms and solutions to provide best p
 Technologies: <ul class='resume-item-list'><li>AWS</li><li>Symfony</li></ul>"
 
 - company: Resto-in
-  position: Reviewer
+  position: IT Team Lead
   duration: Sep, 2014  &mdash; Aug, 2015
   summary: "Architecture and development of the Resto-in food delivery platform.<br />
 Design of the AWS based infrastructure and deployment flow.<br />
@@ -48,7 +48,7 @@ Provide solution to any complex IT related challenges in the organization.<br />
 Technologies: <ul class='resume-item-list'><li>AWS</li><li>Symfony</li><li>AngularJS</li></ul>"
 
 - company: Packt Publishing
-  position: IT Team Lead
+  position: Reviewer
   duration: July, 2013  &mdash; Aug, 2013
   summary: "Review of the book 'Getting Started with Magento Module Development' by Branko Ajzele"
 
