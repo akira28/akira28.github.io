@@ -55,7 +55,7 @@
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ job.position }}</span><span style="display: block; float:right;">{{ job.duration }}</span></h4><br/>
+          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ job.position }}</span>&nbsp;<span style="display: block; float:right;">{{ job.duration }}</span></h4><br/>
           <div class="resume-item-copy" style="clear: both;">{{ job.summary }}</div>
         </div><!-- end of resume-item -->
         {% endfor %}
@@ -75,7 +75,7 @@
         {% for education in site.data.education %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
-          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ education.degree }}</span><span style="display: block; float:right;">{{ education.year }}</span></h4>
+          <h4 class="resume-item-details" itemprop="description"><span style="display: block; float:left;">{{ education.degree }}</span>&nbsp;<span style="display: block; float:right;">{{ education.year }}</span></h4>
           <p class="resume-item-copy">{{ education.summary }}</p>
         </div>
         {% endfor %}
