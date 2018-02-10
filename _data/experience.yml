@@ -11,7 +11,7 @@ Technologies: <ul class='resume-item-list'><li>Symfony</li><li>Laravel</li><li>N
 - company: Self-employed
   position: Senior PHP Developer
   duration: Mar, 2017 &mdash; Oct, 2017
-  summary: "Symfony web applications architecture and development.<br />
+  summary: "PHP web applications architecture and development.<br />
 API design and implementation.<br />
 Magento e-commerce solutions and modules.<br />
 Wordpress websites and plugins.<br /><br />
@@ -34,7 +34,7 @@ Technologies: <ul class='resume-item-list'><li>Symfony</li><li>Wordpress</li><li
 Provide design and architecture of the enterprise platform.<br />
 Identify integration opportunities to enhance and/or strategically expand the Stuart platform.<br />
 Partner with R&D Architecture team to align on direction and industry best practices.<br />
-Provide R&D team with guidance on platform updates and latest trends.<br />
+Provide R&D team with guidance on platform updates and latest trends.<br /><br />
 Technologies: <ul class='resume-item-list'><li>AWS</li><li>Symfony</li></ul>"
 
 - company: Stuart
@@ -44,20 +44,20 @@ Technologies: <ul class='resume-item-list'><li>AWS</li><li>Symfony</li></ul>"
 Platform architecture.<br />
 Infrastructure design based on Amazon Web Services.<br />
 Recruiting and organization of engineers.<br />
-Create documentation standards for key platforms and solutions to provide best practices and requirements.<br />
+Create documentation standards for key platforms and solutions to provide best practices and requirements.<br /><br />
 Technologies: <ul class='resume-item-list'><li>AWS</li><li>Symfony</li></ul>"
 
 - company: Resto-in
-  position: Reviewer
+  position: IT Team Lead
   duration: Sep, 2014  &mdash; Aug, 2015
   summary: "Architecture and development of the Resto-in food delivery platform.<br />
 Design of the AWS based infrastructure and deployment flow.<br />
 Monitor all team members and provide necessary advice and guidance.<br />
-Provide solution to any complex IT related challenges in the organization.<br />
+Provide solution to any complex IT related challenges in the organization.<br /><br />
 Technologies: <ul class='resume-item-list'><li>AWS</li><li>Symfony</li><li>AngularJS</li></ul>"
 
 - company: Packt Publishing
-  position: IT Team Lead
+  position: Reviewer
   duration: July, 2013  &mdash; Aug, 2013
   summary: "Review of the book 'Getting Started with Magento Module Development' by Branko Ajzele"
 
@@ -66,7 +66,7 @@ Technologies: <ul class='resume-item-list'><li>AWS</li><li>Symfony</li><li>Angul
   duration: Oct, 2011  &mdash; Aug, 2012
   summary: "Architecture and development of B2B and B2C e-commerce solutions based on Magento, for Privalia and Grupo Intercom.<br />
 Development of modules and extensions of Magento features.<br />
-Architect and project manager of a Zend Framework based application for Groupalia, using several REST, JSON-RPC and SOAP APIs (Splunk, Monitis, Zabbix, Emailvision and RabbitMQ).<br />
+Architect and project manager of a Zend Framework based application for Groupalia, using several REST, JSON-RPC and SOAP APIs (Splunk, Monitis, Zabbix, Emailvision and RabbitMQ).<br /><br />
 Technologies: <ul class='resume-item-list'><li>Magento</li><li>Zend Framework</li><li>RabbitMQ</li><li>Drupal</li></ul>"
 
 - company: Jazzware @Wind Telecomunicazioni
@@ -75,7 +75,7 @@ Technologies: <ul class='resume-item-list'><li>Magento</li><li>Zend Framework</l
   summary: "Development of several value added services (VAS) for telecommunication systems, based on J2EE, PHP and Perl, for Wind Telecomunicazioni.<br />
 Oracle database management and PL/SQL procedures development.<br />
 WAP mobile portal management.<br />
-Institutional CMS management, based on EMC Documentum.<br />
+Institutional CMS management, based on EMC Documentum.<br /><br />
 Technologies: <ul class='resume-item-list'><li>J2EE</li><li>PL/SQL</li><li>EMC Documentum</li></ul>"
 
 - company: Ideattive
@@ -84,7 +84,7 @@ Technologies: <ul class='resume-item-list'><li>J2EE</li><li>PL/SQL</li><li>EMC D
   summary: "iOS and Mobile Web apps development.<br />
 Development of e-commerce websites based on Prestashop.<br />
 Creation and maintenance of Google AdWords ad campaigns.<br />
-Creation of Social and Geo Web Marketing campaigns.<br />
+Creation of Social and Geo Web Marketing campaigns.<br /><br />
 Technologies: <ul class='resume-item-list'><li>PhoneGap</li><li>Prestashop</li><li>Google AdWords</li></ul>"
 
 - company: Bioversity International
@@ -92,7 +92,7 @@ Technologies: <ul class='resume-item-list'><li>PhoneGap</li><li>Prestashop</li><
   duration: May, 2009  &mdash; Sep, 2010
   summary: "Typo3 Image Bank project manager and main developer.<br />
 Integration of the AGROVOC SOAP webservices.<br />
-Project manager of a document repository project, based on the Java Enterprise CMS Alfresco.<br />
+Project manager of a document repository project, based on the Java Enterprise CMS Alfresco.<br /><br />
 Technologies: <ul class='resume-item-list'><li>Typo3</li><li>Alfresco</li><li>SOAP</li></ul>"
 
 - company: Emoveo
@@ -101,5 +101,5 @@ Technologies: <ul class='resume-item-list'><li>Typo3</li><li>Alfresco</li><li>SO
   summary: "Performance tuning and online booking application development based on the Symfony PHP framework.<br />
 Team leader of the Ocean Independence portal.<br />
 Creation and maintenance of multiple hotel websites based on Drupal and other CMSs.<br />
-Sw&n Drupal website development, for the sale and promotion of company products.<br />
+Sw&n Drupal website development, for the sale and promotion of company products.<br /><br />
 Technologies: <ul class='resume-item-list'><li>Symfony</li><li>Drupal</li><li>Wordpress</li></ul>"
