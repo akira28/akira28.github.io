@@ -1,12 +1,21 @@
 # Jobs
+
+- company: Colvin
+  position: Senior Software Engineer
+  duration: June, 2020 &mdash; Present
+  summary: "Data architecture redesign.<br />
+Symfony development.<br />
+New technology stack development based on React and Next.js.<br />
+Technologies: <ul class='resume-item-list'><li>Symfony</li><li>Node.js</li><li>React</li><li>Next.js</li><li>AWS</li><li>Docker</li></ul>"
+
 - company: Softonic
   position: Senior Software Engineer
-  duration: Nov, 2017 &mdash; Present
-  summary: "PHP and NodeJS application development.<br />
+  duration: Nov, 2017 &mdash; May, 2020
+  summary: "PHP and Node.js application development.<br />
 Laravel and Symfony applications development.<br />
-NodeJS server side and client side development.<br />
+Node.js server side and client side development.<br />
 AdTech improvements.<br /><br />
-Technologies: <ul class='resume-item-list'><li>Symfony</li><li>Laravel</li><li>NodeJS</li><li>AWS</li><li>Google Cloud Platform</li><li>Docker</li><li>Kubernetes</li></ul>"
+Technologies: <ul class='resume-item-list'><li>Symfony</li><li>Laravel</li><li>Node.js</li><li>AWS</li><li>Google Cloud Platform</li><li>Docker</li><li>Kubernetes</li></ul>"
 
 - company: Self-employed
   position: Senior PHP Developer
