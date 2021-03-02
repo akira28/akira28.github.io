@@ -14,7 +14,7 @@ resume_name:                    "Andrea De Pirro"
 resume_title:                   "Senior Software Engineer"
 resume_contact_email:           "andreadepirro@gmail.com"
 resume_header_contact_info:     "Barcelona - andreadepirro@gmail.com"
-resume_header_intro:            "<p>A highly skilled and passionate web architect with over 10 years of experience developing and managing web application projects.<br />Specialties: PHP, NodeJS, Symfony, Laravel, AWS, Kubernetes</p>"
+resume_header_intro:            "<p>A highly skilled and passionate web architect with over 10 years of experience developing and managing web application projects.<br />Specialties: PHP, Node.js, Symfony, Laravel, AWS, Kubernetes</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
