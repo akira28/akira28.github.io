@@ -14,13 +14,13 @@ resume_name:                    "Andrea De Pirro"
 resume_title:                   "PHP Architect"
 resume_contact_email:           "andreadepirro@gmail.com"
 resume_header_contact_info:     "Barcelona - andreadepirro@gmail.com"
-resume_header_intro:            "<p>A highly skilled and passionate web architect with over 10 years of experience developing and managing web application projects.<br />Specialties: PHP, Symfony, Laravel, Magento, Wordpress, AWS, REST</p>"
+resume_header_intro:            "<p>A highly skilled and passionate web architect with over 10 years of experience developing and managing web application projects.<br />Specialties: PHP, NodeJS, Symfony, Laravel, AWS, Kubernetes</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+resume_looking_for_work:        ""
 
 # Decide which sections to use
 # comment out to hide
