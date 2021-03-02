@@ -1,8 +1,13 @@
 # Jobs
 
+- company: Postman
+  position: Senior Software Engineer
+  duration: March, 2021 &mdash; Present
+  summary: "Technologies: <ul class='resume-item-list'><li>Node.js</li><li>Sail.js</li><li>AWS</li><li>OpenAPI</li></ul>"
+
 - company: Colvin
   position: Senior Software Engineer
-  duration: June, 2020 &mdash; Present
+  duration: June, 2020 &mdash; February, 2021
   summary: "Data architecture redesign.<br />
 Symfony development.<br />
 New technology stack development based on React and Next.js.<br />
