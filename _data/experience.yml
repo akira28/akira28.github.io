@@ -21,9 +21,9 @@
   summary: "As a Senior Software Engineer at Softonic, I developed Laravel and Symfony applications, as well as Node.js-based solutions, that delivered outstanding results for our users. My extensive knowledge of AWS, Google Cloud Platform, Docker, and Kubernetes enabled me to create scalable and reliable infrastructures to support our software solutions.<br />Furthermore, I integrated Google AdWords, Amazon TAM, and Prebid into our software stack, streamlining our advertising processes and enhancing our monetization potential. My contributions in this area enabled us to achieve optimal results while maintaining a seamless user experience.<br />I collaborated with stakeholders across the company to identify business requirements and develop software solutions that met or exceeded our clients' expectations. My focus on staying up-to-date with the latest technologies and best practices allowed me to deliver high-quality code that was scalable, maintainable, and efficient. Technologies: <ul class='resume-item-list'><li>Symfony</li><li>Laravel</li><li>Node.js</li><li>AWS</li><li>Google Cloud Platform</li><li>Google AdWords</li><li>Amazon TAM</li><li>Prebid</li><li>Docker</li><li>Kubernetes</li></ul>"
 
 - company: Self-employed
-  position: Senior PHP Developer
+  position: PHP Architect
   duration: Mar, 2017 &mdash; Oct, 2017
-  summary: "PHP web applications architecture and development.<br />API design and implementation.<br />Magento e-commerce solutions and modules.<br />Wordpress websites and plugins.<br /><br />Technologies: <ul class='resume-item-list'><li>Symfony</li><li>Laravel</li><li>Magento</li><li>Wordpress</li><li>AWS</li></ul>"
+  summary: "Symfony web applications architecture and development.<br />API design and implementation.<br />Magento e-commerce solutions and modules.<br />Wordpress websites and plugins.<br /><br />Technologies: <ul class='resume-item-list'><li>Symfony</li><li>Laravel</li><li>Magento</li><li>Wordpress</li><li>AWS</li></ul>"
 
 - company: Yameveo
   position: Co-founder
