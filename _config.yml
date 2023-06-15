@@ -1,6 +1,6 @@
 # Site settings
-title: "Andrea De Pirro - PHP Architect"
-description: "A highly skilled and passionate web architect with over 10 years of experience developing and managing web application projects"
+title: "Andrea De Pirro - Lead Software Engineer"
+description: "As an experienced Software Engineer with a passion for developing cutting-edge solutions, I bring exceptional skills and a commitment to driving business success through innovative web application development. With expertise in multiple programming languages, cloud technologies, and software development methodologies, I have a proven track record of delivering solutions that exceed client expectations. Whether collaborating with teams or working independently, I stay up-to-date with the latest technologies and best practices to ensure that my work is always of the highest quality"
 
 # Build settings
 markdown: kramdown
@@ -11,10 +11,10 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Andrea De Pirro"
-resume_title:                   "Senior Software Engineer"
+resume_title:                   "Lead Software Engineer"
 resume_contact_email:           "andrea@duck.com"
-resume_header_contact_info:     "Barcelona - andreadepirro@gmail.com"
-resume_header_intro:            "<p>A highly skilled and passionate web architect with over 10 years of experience developing and managing web application projects.<br />Specialties: PHP, Node.js, Symfony, Laravel, AWS, Kubernetes</p>"
+resume_header_contact_info:     "Barcelona - andrea@duck.com"
+resume_header_intro:            "<p>As an experienced Software Engineer with a passion for developing cutting-edge solutions, I bring exceptional skills and a commitment to driving business success through innovative web application development. With expertise in multiple programming languages, cloud technologies, and software development methodologies, I have a proven track record of delivering solutions that exceed client expectations. Whether collaborating with teams or working independently, I stay up-to-date with the latest technologies and best practices to ensure that my work is always of the highest quality. <br />Specialties: PHP, Node.js, TypeScript, AWS, Kubernetes</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -37,7 +37,7 @@ resume_section_associations:    false
 resume_social_links:
   resume_github_url:            "https://github.com/akira28"
   resume_twitter_url:           "https://twitter.com/akira28"
-  #resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/andreadepirro"
   # resume_instagram_url:         "insert your Instagram URL here"
