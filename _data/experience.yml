@@ -8,7 +8,7 @@
 - company: Postman
   position: Senior Software Engineer
   duration: March, 2021 &mdash; April, 2022
-  summary: "I joined Postman as the first developer for the newly formed Postman API team. In this role, I played a pivotal role in hiring highly skilled developers, API designers, and Tech Writers, while spearheading the design and implementation of the latest version of the Postman API. This revamp was built using cutting-edge technologies such as Node.js, Fastify, Golang and Kong Gateway. Additionally, I contributed to the establishment of API-first guidelines, governance rules, and internal practices to ensure consistency and quality across our API development endeavors.<br /><br />Technologies: <ul class='resume-item-list'><li>Node.js</li><li>Sails.js</li><li>AWS</li><li>OpenAPI</li></ul>"
+  summary: "<ul><li>Joined as the first developer on the newly formed Postman API team</li><li>Led hiring efforts for developers, API designers, and technical writers</li><li>Designed and implemented the latest version of the Postman API using Node.js, Fastify, Golang, and Kong Gateway</li><li>Helped define API-first guidelines, governance rules, and internal practices for consistent, high-quality API development</li></ul>Technologies: <ul class='resume-item-list'><li>Node.js</li><li>Sails.js</li><li>AWS</li><li>OpenAPI</li></ul>"
 
 - company: Colvin
   position: Senior Software Engineer
