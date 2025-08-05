@@ -3,7 +3,7 @@
 - company: Postman
   position: Lead Software Engineer
   duration: April, 2022 &mdash; Present
-  summary: "<ul><li>Lead critical technical decisions within Postman’s API team</li><li>Mentor and onboard new developers to ensure smooth integration</li><li>Maintain and evolve the Postman API using Node.js, Fastify, Golang, and Kong Gateway</li><li>Champion API design-first principles and improve org-wide API governance</li><li>Led Postman's transition to TypeScript by building a custom migration tool tailored to our infrastructure</li></ul><br /><br />Technologies: <ul class='resume-item-list'><li>TypeScript</li><li>Kong API Gateway</li><li>Node.js</li><li>REST</li><li>Golang</li><li>OpenAPI</li><li>AWS</li></ul>"
+  summary: "<ul><li>Lead critical technical decisions within Postman’s API team</li><li>Mentor and onboard new developers to ensure smooth integration</li><li>Maintain and evolve the Postman API using Node.js, Fastify, Golang, and Kong Gateway</li><li>Champion API design-first principles and improve org-wide API governance</li><li>Led Postman's transition to TypeScript by building a custom migration tool tailored to our infrastructure</li></ul>Technologies: <ul class='resume-item-list'><li>TypeScript</li><li>Kong API Gateway</li><li>Node.js</li><li>REST</li><li>Golang</li><li>OpenAPI</li><li>AWS</li></ul>"
 
 - company: Postman
   position: Senior Software Engineer
