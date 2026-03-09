@@ -1,9 +1,13 @@
 # Jobs
+- company: Postman
+  position: Engineering Manager
+  duration: February, 2023 &mdash; Present
+  summary: "<ul><li>Lead the Postman API team, managing cross-functional engineers and fostering a culture of technical excellence and API-First design</li><li>Spearheaded the development of the Postman MCP (Model Context Protocol) server and integrated Claude Skills for autonomous AI agentic workflows</li><li>Led the technical delivery for integrations with AI-native developer tools including Claude Code, Cursor, and ChatGPT</li><li>Architected high-performance API Gateway solutions using Apache APISIX and custom Lua scripting to handle global-scale traffic</li><li>Established and enforced organization-wide API governance and design-first standards to ensure consistency and reliability</li></ul>Technologies: <ul class='resume-item-list'><li>Model Context Protocol (MCP)</li><li>Claude Skills</li><li>Apache APISIX</li><li>Lua</li><li>Node.js</li><li>Golang</li><li>OpenAPI</li><li>AWS</li></ul>"
 
 - company: Postman
   position: Lead Software Engineer
-  duration: April, 2022 &mdash; Present
-  summary: "<ul><li>Lead critical technical decisions within Postman’s API team</li><li>Mentor and onboard new developers to ensure smooth integration</li><li>Maintain and evolve the Postman API using Node.js, Fastify, Golang, and Kong Gateway</li><li>Champion API design-first principles and improve org-wide API governance</li><li>Led Postman's transition to TypeScript by building a custom migration tool tailored to our infrastructure</li></ul>Technologies: <ul class='resume-item-list'><li>TypeScript</li><li>Kong API Gateway</li><li>Node.js</li><li>REST</li><li>Golang</li><li>OpenAPI</li><li>AWS</li></ul>"
+  duration: April, 2022 &mdash; January, 2023
+  summary: "<ul><li>Lead critical technical decisions within Postman's API team</li><li>Mentor and onboard new developers to ensure smooth integration</li><li>Maintain and evolve the Postman API using Node.js, Fastify, Golang, and Kong Gateway</li><li>Champion API design-first principles and improve org-wide API governance</li><li>Led Postman's transition to TypeScript by building a custom migration tool tailored to our infrastructure</li></ul>Technologies: <ul class='resume-item-list'><li>TypeScript</li><li>Kong API Gateway</li><li>Node.js</li><li>REST</li><li>Golang</li><li>OpenAPI</li><li>AWS</li></ul>"
 
 - company: Postman
   position: Senior Software Engineer
