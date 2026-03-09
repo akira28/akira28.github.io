@@ -11,10 +11,10 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Andrea De Pirro"
-resume_title:                   "Lead Software Engineer"
+resume_title:                   "Engineering Manager"
 resume_contact_email:           "andrea@duck.com"
 resume_header_contact_info:     "Barcelona - andrea@duck.com"
-resume_header_intro:            "<p>As an experienced Software Engineer with a passion for developing cutting-edge solutions, I bring exceptional skills and a commitment to driving business success through innovative web application development. With expertise in multiple programming languages, cloud technologies, and software development methodologies, I have a proven track record of delivering solutions that exceed client expectations. Whether collaborating with teams or working independently, I stay up-to-date with the latest technologies and best practices to ensure that my work is always of the highest quality. <br />Specialties: PHP, Node.js, TypeScript, AWS, Kubernetes</p>"
+resume_header_intro:            "<p>Engineering Manager at Postman, leading the Postman API team in building the foundation of our public and private interfaces. I focus on the intersection of scalable infrastructure and AI-native development, driving API Design-First principles and robust governance. I am dedicated to fostering high-impact engineering cultures that empower developers through reliable and innovative API ecosystems. <br />Specialties: Engineering Leadership, API Strategy, AI Integration, System Architecture</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
