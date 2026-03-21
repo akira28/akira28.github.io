@@ -1,12 +1,33 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Leadership
+- skill: Technical leadership and mentoring
+  description: Leading cross-functional engineering teams, hiring and mentoring engineers, setting technical direction, and driving execution across complex API and platform initiatives.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# AI & Developer Experience
+- skill: AI integrations and agentic workflows
+  description: Design and integration of AI-native developer experiences, including MCP (Model Context Protocol), Claude Skills, and connections to tools like Claude Code, Cursor, and ChatGPT.
+
+- skill: Developer experience and internal platforms
+  description: Building internal APIs, tooling, and platforms that improve developer productivity, consistency, and onboarding.
+
+# Backend & APIs
+- skill: Backend and API platform engineering
+  description: Design and implementation of high-traffic backend services and APIs using Node.js, Golang, PHP (Symfony, Laravel), and modern API frameworks.
+
+- skill: API design and governance
+  description: API-first design, OpenAPI-driven contracts, versioning, governance rules, and standards to ensure consistent, reliable internal and external APIs.
+
+# API Gateways & Traffic Management
+- skill: API gateways and traffic management
+  description: Architecture and operation of global-scale API gateways using Apache APISIX and Kong, including routing, rate limiting, authentication, and observability.
+
+- skill: Lua and gateway extensibility
+  description: Development of custom Lua plugins and policies to extend API gateway behavior and implement organization-specific logic.
+
+# Cloud & Infrastructure
+- skill: Cloud infrastructure and Kubernetes
+  description: AWS and GCP (GKE) infrastructure design, containerization with Docker, Kubernetes-based deployments, and CI/CD workflows.
+
+- skill: Event-driven architecture and messaging
+  description: Event-driven systems using RabbitMQ and background workers to decouple services, improve resilience, and support asynchronous workflows.
